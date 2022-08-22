@@ -5,5 +5,6 @@ public class hello_world {
         System.out.println("hello world!");
         System.out.println("next");
         System.out.println("nextnext");
+        System.out.println("nextnext");
     }
 }
